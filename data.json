@@ -1,0 +1,731 @@
+[
+  {
+    "mes": "Janeiro",
+    "empresa": "Batatinha",
+    "canal": "Sem vendas",
+    "faturamento": 0,
+    "repasse": 0,
+    "pedidos": 0,
+    "itens": 0
+  },
+  {
+    "mes": "Janeiro",
+    "empresa": "Jacaré",
+    "canal": "Sem vendas",
+    "faturamento": 0,
+    "repasse": 0,
+    "pedidos": 0,
+    "itens": 0
+  },
+  {
+    "mes": "Janeiro",
+    "empresa": "Signmaq",
+    "canal": "Sem vendas",
+    "faturamento": 0,
+    "repasse": 0,
+    "pedidos": 0,
+    "itens": 0
+  },
+  {
+    "mes": "Janeiro",
+    "empresa": "Suprimarketing",
+    "canal": "Sem vendas",
+    "faturamento": 0,
+    "repasse": 0,
+    "pedidos": 0,
+    "itens": 0
+  },
+  {
+    "mes": "Janeiro",
+    "empresa": "Criptonita",
+    "canal": "Sem vendas",
+    "faturamento": 0,
+    "repasse": 0,
+    "pedidos": 0,
+    "itens": 0
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Batatinha",
+    "canal": "Shopee",
+    "faturamento": 52415.79,
+    "repasse": 31999.14,
+    "pedidos": 842,
+    "itens": 938
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Batatinha",
+    "canal": "Mercado Livre",
+    "faturamento": 25934.06,
+    "repasse": 20555.28,
+    "pedidos": 344,
+    "itens": 522
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Batatinha",
+    "canal": "Amazon",
+    "faturamento": 2084.2,
+    "repasse": 1270.76,
+    "pedidos": 25,
+    "itens": 38
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Batatinha",
+    "canal": "TikTok",
+    "faturamento": 415.5,
+    "repasse": 337.83,
+    "pedidos": 4,
+    "itens": 5
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Jacaré",
+    "canal": "Shopee",
+    "faturamento": 56095.03,
+    "repasse": 35873.61,
+    "pedidos": 559,
+    "itens": 689
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Jacaré",
+    "canal": "Mercado Livre",
+    "faturamento": 16288.38,
+    "repasse": 11930.98,
+    "pedidos": 215,
+    "itens": 285
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Jacaré",
+    "canal": "Amazon",
+    "faturamento": 3654.0,
+    "repasse": 1459.15,
+    "pedidos": 52,
+    "itens": 80
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Jacaré",
+    "canal": "TikTok",
+    "faturamento": 1715.2,
+    "repasse": 1427.37,
+    "pedidos": 15,
+    "itens": 18
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Signmaq",
+    "canal": "Mercado Livre",
+    "faturamento": 6289.47,
+    "repasse": 4311.66,
+    "pedidos": 92,
+    "itens": 127
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Signmaq",
+    "canal": "Shopee",
+    "faturamento": 3245.45,
+    "repasse": 2053.47,
+    "pedidos": 33,
+    "itens": 38
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Signmaq",
+    "canal": "Shein",
+    "faturamento": 1129.82,
+    "repasse": 604.87,
+    "pedidos": 37,
+    "itens": 42
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Signmaq",
+    "canal": "Magalu",
+    "faturamento": 1038.0,
+    "repasse": 650.32,
+    "pedidos": 11,
+    "itens": 22
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Suprimarketing",
+    "canal": "Mercado Livre",
+    "faturamento": 2863.75,
+    "repasse": 1422.9,
+    "pedidos": 52,
+    "itens": 66
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Suprimarketing",
+    "canal": "Shopee",
+    "faturamento": 1851.0,
+    "repasse": 1240.83,
+    "pedidos": 20,
+    "itens": 20
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Suprimarketing",
+    "canal": "Magalu",
+    "faturamento": 206.38,
+    "repasse": 142.63,
+    "pedidos": 2,
+    "itens": 2
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Criptonita",
+    "canal": "Shopee",
+    "faturamento": 2509.16,
+    "repasse": 1256.96,
+    "pedidos": 38,
+    "itens": 40
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Criptonita",
+    "canal": "Mercado Livre",
+    "faturamento": 1875.31,
+    "repasse": 1135.73,
+    "pedidos": 34,
+    "itens": 39
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Criptonita",
+    "canal": "Magalu",
+    "faturamento": 678.55,
+    "repasse": 548.76,
+    "pedidos": 9,
+    "itens": 16
+  },
+  {
+    "mes": "Fevereiro",
+    "empresa": "Criptonita",
+    "canal": "Shein",
+    "faturamento": 162.74,
+    "repasse": 40.06,
+    "pedidos": 5,
+    "itens": 5
+  },
+  {
+    "mes": "Março",
+    "empresa": "Batatinha",
+    "canal": "Shopee",
+    "faturamento": 162836.98,
+    "repasse": 95442.65,
+    "pedidos": 2494,
+    "itens": 2842
+  },
+  {
+    "mes": "Março",
+    "empresa": "Batatinha",
+    "canal": "Mercado Livre",
+    "faturamento": 90373.63,
+    "repasse": 56255.37,
+    "pedidos": 1040,
+    "itens": 1498
+  },
+  {
+    "mes": "Março",
+    "empresa": "Batatinha",
+    "canal": "Amazon",
+    "faturamento": 10506.8,
+    "repasse": 6462.78,
+    "pedidos": 120,
+    "itens": 202
+  },
+  {
+    "mes": "Março",
+    "empresa": "Batatinha",
+    "canal": "TikTok",
+    "faturamento": 3898.1,
+    "repasse": 2947.67,
+    "pedidos": 39,
+    "itens": 49
+  },
+  {
+    "mes": "Março",
+    "empresa": "Jacaré",
+    "canal": "Shopee",
+    "faturamento": 190125.59,
+    "repasse": 118193.13,
+    "pedidos": 1894,
+    "itens": 2310
+  },
+  {
+    "mes": "Março",
+    "empresa": "Jacaré",
+    "canal": "Mercado Livre",
+    "faturamento": 66002.88,
+    "repasse": 39523.52,
+    "pedidos": 753,
+    "itens": 1064
+  },
+  {
+    "mes": "Março",
+    "empresa": "Jacaré",
+    "canal": "Amazon",
+    "faturamento": 10554.7,
+    "repasse": 5703.44,
+    "pedidos": 136,
+    "itens": 163
+  },
+  {
+    "mes": "Março",
+    "empresa": "Jacaré",
+    "canal": "TikTok",
+    "faturamento": 6928.5,
+    "repasse": 5304.08,
+    "pedidos": 71,
+    "itens": 85
+  },
+  {
+    "mes": "Março",
+    "empresa": "Signmaq",
+    "canal": "Mercado Livre",
+    "faturamento": 18868.38,
+    "repasse": 10734.06,
+    "pedidos": 307,
+    "itens": 382
+  },
+  {
+    "mes": "Março",
+    "empresa": "Signmaq",
+    "canal": "Shopee",
+    "faturamento": 16877.99,
+    "repasse": 10255.49,
+    "pedidos": 193,
+    "itens": 214
+  },
+  {
+    "mes": "Março",
+    "empresa": "Signmaq",
+    "canal": "Magalu",
+    "faturamento": 5198.17,
+    "repasse": 4748.08,
+    "pedidos": 55,
+    "itens": 75
+  },
+  {
+    "mes": "Março",
+    "empresa": "Signmaq",
+    "canal": "Shein",
+    "faturamento": 4816.97,
+    "repasse": 2156.57,
+    "pedidos": 161,
+    "itens": 177
+  },
+  {
+    "mes": "Março",
+    "empresa": "Suprimarketing",
+    "canal": "Mercado Livre",
+    "faturamento": 13092.02,
+    "repasse": 5059.56,
+    "pedidos": 242,
+    "itens": 291
+  },
+  {
+    "mes": "Março",
+    "empresa": "Suprimarketing",
+    "canal": "Shopee",
+    "faturamento": 10078.38,
+    "repasse": 6025.43,
+    "pedidos": 86,
+    "itens": 118
+  },
+  {
+    "mes": "Março",
+    "empresa": "Suprimarketing",
+    "canal": "Magalu",
+    "faturamento": 1232.29,
+    "repasse": 749.95,
+    "pedidos": 14,
+    "itens": 18
+  },
+  {
+    "mes": "Março",
+    "empresa": "Criptonita",
+    "canal": "Shopee",
+    "faturamento": 19328.09,
+    "repasse": 9582.45,
+    "pedidos": 304,
+    "itens": 340
+  },
+  {
+    "mes": "Março",
+    "empresa": "Criptonita",
+    "canal": "Mercado Livre",
+    "faturamento": 7933.46,
+    "repasse": 3300.36,
+    "pedidos": 138,
+    "itens": 180
+  },
+  {
+    "mes": "Março",
+    "empresa": "Criptonita",
+    "canal": "Magalu",
+    "faturamento": 2927.14,
+    "repasse": 2285.58,
+    "pedidos": 26,
+    "itens": 40
+  },
+  {
+    "mes": "Março",
+    "empresa": "Criptonita",
+    "canal": "Shein",
+    "faturamento": 1501.52,
+    "repasse": 350.82,
+    "pedidos": 21,
+    "itens": 37
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Batatinha",
+    "canal": "Shopee",
+    "faturamento": 183318.28,
+    "repasse": 117908.75,
+    "pedidos": 2756,
+    "itens": 3143
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Batatinha",
+    "canal": "Mercado Livre",
+    "faturamento": 102722.47,
+    "repasse": 58776.99,
+    "pedidos": 1276,
+    "itens": 1696
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Batatinha",
+    "canal": "Amazon",
+    "faturamento": 12577.6,
+    "repasse": 7421.1,
+    "pedidos": 155,
+    "itens": 224
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Batatinha",
+    "canal": "TikTok",
+    "faturamento": 1985.8,
+    "repasse": 1309.14,
+    "pedidos": 22,
+    "itens": 25
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Jacaré",
+    "canal": "Shopee",
+    "faturamento": 224555.6,
+    "repasse": 139482.41,
+    "pedidos": 2548,
+    "itens": 3064
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Jacaré",
+    "canal": "Mercado Livre",
+    "faturamento": 60049.79,
+    "repasse": 30708.21,
+    "pedidos": 617,
+    "itens": 891
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Jacaré",
+    "canal": "Amazon",
+    "faturamento": 8408.9,
+    "repasse": 5127.76,
+    "pedidos": 115,
+    "itens": 131
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Jacaré",
+    "canal": "TikTok",
+    "faturamento": 3909.54,
+    "repasse": 2567.59,
+    "pedidos": 41,
+    "itens": 48
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Signmaq",
+    "canal": "Shopee",
+    "faturamento": 14494.14,
+    "repasse": 8751.62,
+    "pedidos": 120,
+    "itens": 146
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Signmaq",
+    "canal": "Mercado Livre",
+    "faturamento": 10245.19,
+    "repasse": 3860.01,
+    "pedidos": 143,
+    "itens": 203
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Signmaq",
+    "canal": "Magalu",
+    "faturamento": 9607.86,
+    "repasse": 7420.26,
+    "pedidos": 94,
+    "itens": 139
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Signmaq",
+    "canal": "Shein",
+    "faturamento": 2550.34,
+    "repasse": 958.13,
+    "pedidos": 56,
+    "itens": 70
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Suprimarketing",
+    "canal": "Mercado Livre",
+    "faturamento": 8145.44,
+    "repasse": 2061.78,
+    "pedidos": 171,
+    "itens": 194
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Suprimarketing",
+    "canal": "Shopee",
+    "faturamento": 5322.84,
+    "repasse": 3235.58,
+    "pedidos": 55,
+    "itens": 63
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Suprimarketing",
+    "canal": "Magalu",
+    "faturamento": 1059.6,
+    "repasse": 562.33,
+    "pedidos": 13,
+    "itens": 19
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Criptonita",
+    "canal": "Shopee",
+    "faturamento": 18101.57,
+    "repasse": 11567.67,
+    "pedidos": 215,
+    "itens": 240
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Criptonita",
+    "canal": "Mercado Livre",
+    "faturamento": 8556.06,
+    "repasse": 6426.91,
+    "pedidos": 79,
+    "itens": 97
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Criptonita",
+    "canal": "Magalu",
+    "faturamento": 3946.58,
+    "repasse": 2522.81,
+    "pedidos": 39,
+    "itens": 54
+  },
+  {
+    "mes": "Abril",
+    "empresa": "Criptonita",
+    "canal": "Shein",
+    "faturamento": 1592.04,
+    "repasse": 420.85,
+    "pedidos": 16,
+    "itens": 44
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Batatinha",
+    "canal": "Mercado Livre",
+    "faturamento": 37488.42,
+    "repasse": 19013.43,
+    "pedidos": 511,
+    "itens": 639
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Batatinha",
+    "canal": "Shopee",
+    "faturamento": 32930.49,
+    "repasse": 15584.81,
+    "pedidos": 401,
+    "itens": 444
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Batatinha",
+    "canal": "Amazon",
+    "faturamento": 6830.9,
+    "repasse": 4185.51,
+    "pedidos": 76,
+    "itens": 131
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Batatinha",
+    "canal": "TikTok",
+    "faturamento": 435.84,
+    "repasse": 312.5,
+    "pedidos": 4,
+    "itens": 4
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Jacaré",
+    "canal": "Shopee",
+    "faturamento": 56285.62,
+    "repasse": 28894.79,
+    "pedidos": 547,
+    "itens": 684
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Jacaré",
+    "canal": "Mercado Livre",
+    "faturamento": 24556.62,
+    "repasse": 11896.83,
+    "pedidos": 316,
+    "itens": 407
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Jacaré",
+    "canal": "Amazon",
+    "faturamento": 3883.9,
+    "repasse": 2202.04,
+    "pedidos": 47,
+    "itens": 61
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Jacaré",
+    "canal": "TikTok",
+    "faturamento": 1737.98,
+    "repasse": 1174.01,
+    "pedidos": 15,
+    "itens": 20
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Signmaq",
+    "canal": "Mercado Livre",
+    "faturamento": 8834.51,
+    "repasse": 3742.54,
+    "pedidos": 122,
+    "itens": 178
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Signmaq",
+    "canal": "Shopee",
+    "faturamento": 6555.92,
+    "repasse": 3444.06,
+    "pedidos": 62,
+    "itens": 71
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Signmaq",
+    "canal": "Magalu",
+    "faturamento": 3644.03,
+    "repasse": 1504.08,
+    "pedidos": 34,
+    "itens": 56
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Signmaq",
+    "canal": "Shein",
+    "faturamento": 1621.04,
+    "repasse": 653.58,
+    "pedidos": 47,
+    "itens": 55
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Suprimarketing",
+    "canal": "Mercado Livre",
+    "faturamento": 4375.36,
+    "repasse": 1440.43,
+    "pedidos": 80,
+    "itens": 88
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Suprimarketing",
+    "canal": "Shopee",
+    "faturamento": 3518.42,
+    "repasse": 1578.05,
+    "pedidos": 42,
+    "itens": 47
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Suprimarketing",
+    "canal": "Magalu",
+    "faturamento": 649.05,
+    "repasse": 410.36,
+    "pedidos": 8,
+    "itens": 9
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Criptonita",
+    "canal": "Shopee",
+    "faturamento": 7559.9,
+    "repasse": 3736.89,
+    "pedidos": 96,
+    "itens": 113
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Criptonita",
+    "canal": "Mercado Livre",
+    "faturamento": 7309.86,
+    "repasse": 2844.07,
+    "pedidos": 94,
+    "itens": 118
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Criptonita",
+    "canal": "Magalu",
+    "faturamento": 3656.52,
+    "repasse": 2137.41,
+    "pedidos": 35,
+    "itens": 50
+  },
+  {
+    "mes": "Maio",
+    "empresa": "Criptonita",
+    "canal": "Shein",
+    "faturamento": 802.67,
+    "repasse": 236.97,
+    "pedidos": 16,
+    "itens": 22
+  }
+]
